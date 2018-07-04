@@ -18,7 +18,7 @@ The Docker image is built for whole pipeline with giving user the access to uplo
 docker pull rishabhjain27/datascrapping:1.0<br><br><br>
 
 **_Command to run docker image_**<br><br>
-docker run rishabhjain27/datascrapping:1.0 python3 datascrapping.py cik=51143 accession=0000051143-13-000007 accessKey=<aws_accessKey> secretKey=<aws_secretKey> location=us-east-1
+docker run rishabhjain27/datascrapping:1.0 python3 datascrapping.py cik=51143 accession=0000051143-13-000007 accessKey=**<aws_accessKey>** secretKey=**<aws_secretKey>** location=us-east-1
 <br><br><br>
 
 # Reference
