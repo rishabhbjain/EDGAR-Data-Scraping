@@ -1,4 +1,4 @@
-# EDGAR-Data-Wrangling
+# EDGAR-Data-Scraping
 
 **EDGAR**, the **Electronic Data Gathering, Analysis, and Retrieval** system, performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms with the **U.S. Securities and Exchange Commission** (the "SEC"). The database is freely available to the public via the Internet (Web or FTP).
 
